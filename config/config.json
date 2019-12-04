@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "spfx-react-search-box-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/reactSearchBox/ReactSearchBoxWebPart.js",
+          "manifest": "./src/webparts/reactSearchBox/ReactSearchBoxWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "reactSearchBoxStrings": "lib/webparts/reactSearchBox/loc/{locale}.js"
+  }
+}

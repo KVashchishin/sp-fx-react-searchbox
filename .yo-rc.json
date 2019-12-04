@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "latest-manifests",
+    "libraryId": "3996131f-f642-4caf-8027-0d161d8092d7",
+    "environment": "spo"
+  }
+}
