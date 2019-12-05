@@ -4,13 +4,13 @@
 
 Проста веб-частина зі строкою пошуку на SharePoint Framework та React.
 
-![SPFx react search box webpart](./assets/sbwp.png)
+![SPFx react search box webpart](./src/webparts/reactSearchBox/assets/sbwp.png)
 
 ### Особливість
 
 Можливість налаштування з вибором сторінки результатів (Modern/Classic) та маштабом пошуку.
 
-![SPFx react search box webpart configuration](./assets/sbwpc.PNG)
+![SPFx react search box webpart configuration](./src/webparts/reactSearchBox/assets/sbwpc.PNG)
 
 ## Quick start
 
