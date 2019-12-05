@@ -4,7 +4,7 @@
 
 Проста веб-частина зі строкою пошуку на SharePoint Framework та React.
 
-![SPFx react search box webpart](./src/webparts/reactSearchBox/assets/sbwp.png)
+![SPFx react search box webpart](./src/webparts/reactSearchBox/assets/sbwp.PNG)
 
 ### Особливість
 
